@@ -19,7 +19,3 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
- <div align=center>
-  <h1>📚 STATS</h1>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyun127)](https://github.com/anuraghazra/github-readme-stats)
