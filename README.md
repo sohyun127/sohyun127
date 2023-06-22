@@ -1,7 +1,8 @@
 
+![224702333-184dcd1e-ce43-439e-9951-19d01080287f](https://github.com/sohyun127/sohyun127/assets/98076050/4a47aba6-7048-4868-800c-ea9083d727fa)
+<h1></h1>
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sohyun%20&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sohyun%20&fontSize=90)
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
